@@ -1,5 +1,4 @@
 - 👋 Hi there! I'm a junior developer passionate about building efficient and scalable applications using Java/Spring
-- .
 - 💡 Let's connect and work together on innovative projects!
 - 👀  My interests lie in networking and cloud computing and Distributed Systems.
 - 🌱 Currently, I'm seeking opportunities to contribute to open-source projects where I can collaborate with others and grow my skills
